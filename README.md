@@ -1,4 +1,4 @@
-In this project, let's build a **Simple Todos** app by applying the concepts we have learned till now.
+In this project, I have built a **Simple Todos** app.
 
 ### Refer to the image below:
 
