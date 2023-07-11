@@ -18,26 +18,17 @@ In this project, I have built a **Simple Todos** app.
 
 </details>
 
-### Set Up Instructions
-
-<details>
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
-</details>
-
 ### Completion Instructions
 
 <details>
 <summary>Functionality to be added</summary>
 <br/>
 
-The app must have the following functionalities
+The app  has the following functionalities
 
 - Initially, the list of given todos should be displayed with a delete button for each todo
-- When **Delete** button of a todo is clicked, then the respective todo should be deleted
-- The `SimpleTodos` will consist of the `initialTodosList`. It consists of a list of todo objects with the following properties in each todo object
+- When the **Delete** button of a todo is clicked, then the respective todo should be deleted
+- The `SimpleTodos`  consists of the `initialTodosList`. It consists of a list of todo objects with the following properties in each todo object
 
   |  Key  | Data Type |
   | :---: | :-------: |
@@ -67,29 +58,6 @@ Use these files to complete the implementation:
 - `src/components/SimpleTodo/index.css`
 - `src/components/TodoItem/index.js`
 - `src/components/TodoItem/index.css`
-</details>
-
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- You can use the `cursor` CSS property to specify the mouse cursor to be displayed when pointing over an element
-
-  ```
-    cursor: pointer;
-  ```
-
-  <br/>
-   <img src="https://assets.ccbp.in/frontend/content/react-js/cursor-pointer-img.png" alt="cursor pointer" style="width:100px" />
-
-- You can use the below `outline` CSS property for buttons and input elements to remove the highlighting when the elements are clicked
-
-  ```
-    outline: none;
-  ```
-
 </details>
 
 ### Resources
